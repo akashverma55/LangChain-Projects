@@ -50,8 +50,8 @@ This project is a Streamlit-based application that leverages the **Qwen model** 
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
-   cd <repository_name>
+   git clone <github.com/akashverma55/>
+   cd <LangChain-Projects>
    ```
 
 2. Create and activate a virtual environment:
@@ -67,7 +67,7 @@ This project is a Streamlit-based application that leverages the **Qwen model** 
 
 4. Run the Streamlit app:
    ```bash
-   streamlit run app.py
+   streamlit run Prompt.py
    ```
 
 ---
@@ -87,7 +87,7 @@ This project is a Streamlit-based application that leverages the **Qwen model** 
 ## File Structure
 ```
 .
-├── app.py               # Main Streamlit app
+├── Prompt.py               # Main Streamlit app
 ├── requirements.txt     # Python dependencies
 ├── constants.py         # Stores API keys or sensitive information
 ├── README.md            # Project documentation
